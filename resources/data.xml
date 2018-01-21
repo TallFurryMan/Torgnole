@@ -8,4 +8,5 @@
             <poly data="4,0,0,16,0,16,16,0,16" density="0.1" fric="0.2" gid="-1000" id="0" name="default" rest="0.0" sensor="false"/>
         </anim>
     </sprite>
+    <background atlasID="0" desc="" durations="100" dx="-0.0" dy="-0.0" height="960" id="2" name="PlanDeJeu01" numframes="1" oid="-1" repeats="false" resized="false" shared="false" width="540" xpf="1.0" ypf="1.0"/>
 </pack>
